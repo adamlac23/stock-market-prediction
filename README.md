@@ -1,6 +1,6 @@
 # Stock Market Direction Prediction with XGBoost
 
-This project uses macroeconomic indicators and market data to predict the direction of stock market movements, implementing various machine learning models including XGBoost.
+This project uses macroeconomic indicators and market data to predict the direction of stock market movements, implementing various machine learning models.
 
 ## Project Structure
 
@@ -14,23 +14,3 @@ This project uses macroeconomic indicators and market data to predict the direct
 - Logistic Regression and XGBoost classification models
 - Backtesting investment strategy based on predicted directions
 - Sharpe Ratio, annualized return, and volatility evaluation
-
-## How to Run
-
-1. Clone the repository
-2. Create a virtual environment
-3. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Open the notebook:
-
-```bash
-jupyter notebook stock_pred.ipynb
-```
-
-## License
-
-MIT License
