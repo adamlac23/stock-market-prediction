@@ -1,0 +1,9 @@
+fredapi
+matplotlib
+numpy
+pandas
+requests
+seaborn
+sklearn
+statsmodels
+xgboost
