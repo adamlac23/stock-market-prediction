@@ -1,4 +1,4 @@
-# Stock Market Direction Prediction with XGBoost
+# Stock Market Direction Prediction with ML models
 
 This project uses macroeconomic indicators and market data to predict the direction of stock market movements, implementing various machine learning models.
 
